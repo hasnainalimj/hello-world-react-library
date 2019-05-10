@@ -1,7 +1,7 @@
 {
-  "name": "create-react-library",
-  "version": "3.0.0",
-  "description": "React NPM library starter kit based on Facebook's create react app",
+  "name": "hello-world-react-library",
+  "version": "0.0.1",
+  "description": "Example NPM React library",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimiMikadze/create-react-library.git"
+    "url": "git+https://github.com/hasnainalimj/hello-world-react-library.git"
   },
-  "author": "Dimi Mikadze <dimi@udilia.com>",
+  "author": "Hasnain Ali <mjhasnain15@gmail.com>",
   "bugs": {
-    "url": "https://github.com/DimiMikadze/create-react-library/issues"
+    "url": "https://github.com/hasnainalimj/hello-world-react-library/issues"
   },
-  "homepage": "https://github.com/DimiMikadze/create-react-library#readme",
+  "homepage": "https://github.com/hasnainalimj/hello-world-react-library#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
